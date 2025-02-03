@@ -1,0 +1,5 @@
+twikit==1.0.5
+textblob==0.17.1
+pandas==2.0.3
+tqdm==4.65.0
+requests==2.32.3
